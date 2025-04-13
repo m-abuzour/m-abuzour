@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer | Laravel Specialist | API Architect**  
 📍 Gaza, Palestine  
-🌐 [LinkedIn](https://www.linkedin.com/in/mohammed-abuzour/) • [Instagram](https://www.instagram.com/mo.abuzour/) • [Facebook](https://www.facebook.com/mo.abuzour) • [Twitter](https://twitter.com/mo_abuzour)
+🌐 [LinkedIn](https://www.linkedin.com/in/mohammed-abuzour/) • [Upwork](https://www.upwork.com/freelancers/~013a786078df7125bc) • [Mostaql](https://mostaql.com/u/m_abozour)
 
 ---
 
