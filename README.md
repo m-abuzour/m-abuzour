@@ -20,6 +20,8 @@ I specialize in **Laravel** for backend development and **Vue.js / jQuery** on t
 - ✅ Laravel (RESTful APIs, Sanctum, Passport)
 - ✅ PHP (OOP, MVC)
 - ✅ MySQL (Eloquent ORM, DB Design)
+- ✅ Software Architecture (Modular Design, MVC)
+- ✅ Microservices-ready API Structuring
 
 ### Frontend
 - ✅ Vue.js, jQuery, JavaScript
